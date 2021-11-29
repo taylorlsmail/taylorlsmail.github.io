@@ -6,3 +6,11 @@ img {
     width: 200px;
     height: 200px;
 }
+
+a{
+    border-radius: 20px;
+    margin: 25px;
+    padding: 20px;
+    text-align: center;
+    color: dodgerblue;
+}
